@@ -1,6 +1,6 @@
 This is CSCI.713.01 - Applied Perception in Graphics assignment 1.
 
-Which is based on the paper ¡°Hybrid images(by A. Oliva, A. Torralba, P.G. Schyns)¡±.
+Which is based on the paper Hybrid images(by A. Oliva, A. Torralba, P.G. Schyns).
 
 You can use it to produce an hybrid images.
 
